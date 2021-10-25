@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Clone Netflix 
+### Web site totalmento inlustrativo, com o intuito de praticar os conceitos de React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![2021-10-25 (20)](https://user-images.githubusercontent.com/85572838/138735267-985f469e-dd10-4f36-a1dc-d3f210c12a24.png)
 
-## Available Scripts
-
-In the project directory, you can run:
+## Para executar o projeto:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Este comando executa a aplicação no modo de desenvolvimento.
+Abra o seu navegador com o link [http://localhost:3000](http://localhost:3000) e seja bem vindo ao Projeto!
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Sobre o desenvolvimento do projeto:
 
-### `npm test`
+## Neste projeto, pude aplicar novos conhecimentos adquiridos na caminhada de estudos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![2021-10-25 (21)](https://user-images.githubusercontent.com/85572838/138737605-965ec99f-24c4-4c17-af5d-1ab2dfb22478.png)
 
-### `npm run build`
+### O principal desses recursos aplicados, foi a implementação de uma API, ultilizando uma função Fech para request.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![2021-10-25 (23)](https://user-images.githubusercontent.com/85572838/138738191-e5d58344-b5bb-4822-b69e-7ca4938ed85c.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Também foram aplicados novas Features de CSS para o tratamento da aplicação, com o intuito de deixa-la mais fiel possível.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![2021-10-25 (24)](https://user-images.githubusercontent.com/85572838/138739019-30f32c64-2750-4479-b595-7d3773762dac.png)
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Dados coletados a partir da documentação e API disponibilizadas no site [Themoviedb.org](https://www.themoviedb.org/documentation/api?language=pt-BR). </br>
+Todos os direitos de imagem para [Netflix](https://www.netflix.com/br/)
